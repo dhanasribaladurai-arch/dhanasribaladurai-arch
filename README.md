@@ -178,16 +178,6 @@ A JavaScript-based music recommendation application that recommends songs based 
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanasribaladurai-arch&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 ```text
