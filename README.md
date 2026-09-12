@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Dhanasri Baladurai
 
-### 💻 MCA Graduate | Web Developer | UI/UX Enthusiast | AR/VR Learner
+### 💻 MCA Graduate | Web Developer | AR/VR Learner
 
 📍 Coimbatore, Tamil Nadu, India
 🎓 Master of Computer Applications
-💡 Interested in Web Development, Software Development, UI/UX Design & AR/VR Technologies
+💡 Interested in Web Development, Software Development & AR/VR Technologies
 
 ---
 
